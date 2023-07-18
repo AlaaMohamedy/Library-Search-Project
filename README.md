@@ -1,1 +1,2 @@
-# Library-Search-Project
+# Library-Search-Project functions:
+-insert a book
